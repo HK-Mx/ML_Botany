@@ -52,7 +52,5 @@ Este proyecto propone una **solución basada en machine learning** que permite:
   - GridSearch con optimización de hiperparámetros
 - Métrica clave: **F1-Score** (clases desbalanceadas)
 
----
 
-## 📁 Estructura del Proyecto
 
